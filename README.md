@@ -19,4 +19,10 @@ RegalRetailer is an awasome cpp project. Some of Screen shots are given below:
 
 ![10](https://github.com/S-M-Jony/RegalRetailer/assets/102735936/692936e6-75bb-4bde-929c-447b8da3a620)
 
-![11](https://github.com/S-M-Jony/RegalRetailer/assets/102735936/f879bd84-fee5-4cae-8ecf-de72a2d487d4)
+![12](https://github.com/S-M-Jony/RegalRetailer/assets/102735936/030b0f53-e268-4474-9886-cc34ad729d8d)
+
+![13](https://github.com/S-M-Jony/RegalRetailer/assets/102735936/3444f323-d997-401c-8106-15fc94afc085)
+
+![14](https://github.com/S-M-Jony/RegalRetailer/assets/102735936/d68e8b1f-a4ba-4754-bc31-fa6cffb5ce35)
+
+![11](https://github.com/S-M-Jony/RegalRetailer/assets/102735936/83934a5f-43f4-4ad0-bc5c-9a5c40ed31fe)
